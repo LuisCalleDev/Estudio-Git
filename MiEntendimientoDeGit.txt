@@ -1,0 +1,12 @@
+1. Que es git?
+  Es un controlador de versiones que nos permite gestionar archivos de un proyecto sacando instantaneas de cada alteracion en el proyecto
+
+2. Que es un repositorio?
+  Es un almacenamaiento donde se guardan cambios de un proyecto
+
+3. Que es un commit?
+  Es una captura de lo que se hizo en un repositorio, con un mensaje de lo que se hizo
+
+
+4. Que es una rama?
+  Una seccion que va en conjunto con la seccion principal(main), como lineas de tiempo
